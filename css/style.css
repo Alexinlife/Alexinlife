@@ -1,0 +1,89 @@
+html,body { margin:0; height:100%;}
+
+.parallax1 {
+    background-image: url("../img/Gradient Planet.png");
+
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaxSep {
+    background-image: url("../img/Gradient Planet.png");
+
+    height: 25%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section3{
+
+    background-color: darkslateblue;
+}
+
+.padBlanc{
+    height: 80%
+}
+
+.blanc{
+    background: rgba(255, 255, 255, 0.8);
+    height: 100%;
+}
+
+.longTexte{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: 75%;
+}
+
+.smol
+{
+    padding: 2%;
+}
+
+.nope
+{
+    padding: 0%;
+}
+
+.rowFull{
+    height: 100%;
+}
+
+.orange{
+    background-color: coral;
+}
+
+.vert{
+    background-color: lightgreen;
+}
+
+.or{
+    background-color: palegoldenrod;
+}
+
+.bleu{
+    background-color: deepskyblue;
+}
+.bleuF{
+    background: rgba(10, 10, 50, 0.5);
+}
+
+@media only screen and (max-width: 512px){
+    .parallax1 {
+        background-image: url("../img/Ms. Mill Profile Picture.png");
+
+        height: 100%;
+
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
