@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddf0019d-554c-4e6c-9c0d-4bc5a114d9e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ddf0019d-554c-4e6c-9c0d-4bc5a114d9e3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
+            <state relative-caret-position="680">
               <caret line="140" column="70" lean-forward="true" selection-start-line="140" selection-start-column="70" selection-end-line="140" selection-end-column="70" />
             </state>
           </provider>
@@ -45,10 +42,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
-    <option name="y" value="-908" />
-    <option name="width" value="1616" />
-    <option name="height" value="886" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -112,7 +109,7 @@
       <workItem from="1554317179193" duration="2976000" />
       <workItem from="1554321838815" duration="39000" />
       <workItem from="1554321945698" duration="361000" />
-      <workItem from="1554322512479" duration="15000" />
+      <workItem from="1554322512479" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="Mise à jour du responsiveness">
       <created>1554322035429</created>
@@ -121,17 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1554322035429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sign Up devient Envoyer dans le formulaire">
+      <created>1554322567555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554322567555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10034000" />
+    <option name="totallyTimeSpent" value="10095000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="-908" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2718509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,12 +161,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mise à jour du responsiveness" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mise à jour du responsiveness" />
+    <MESSAGE value="Sign Up devient Envoyer dans le formulaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sign Up devient Envoyer dans le formulaire" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="680">
           <caret line="140" column="70" lean-forward="true" selection-start-line="140" selection-start-column="70" selection-end-line="140" selection-end-column="70" />
         </state>
       </provider>
